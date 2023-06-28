@@ -1,0 +1,1 @@
+export const httpsJsonReg = "^https://[\\w\\d]+.json$";
