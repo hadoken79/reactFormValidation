@@ -1,2 +1,2 @@
 # reactFormValidation
-simple testsetup with react-form-hook, zod, @hookform/resolvers
+simple testsetup with react-hook-form, zod, @hookform/resolvers
